@@ -21,7 +21,9 @@ Currently focused on **data analytics, business intelligence, and learning AI ap
 
 ---
 
-📈 Canadian Retail Sales Forecasting *(Planned / In Progress)*
+📈 Canadian Retail Sales Forecasting 
+
+[View Project](https://github.com/annsiqbal/canadian-retail-forecasting)
 
 * Time series analysis using public datasets
 * Exploring forecasting models (ARIMA, Prophet)
