@@ -30,7 +30,9 @@ Currently focused on **data analytics, business intelligence, and learning AI ap
 
 ---
 
-🏥 Ontario Healthcare Wait Time Analysis *(Planned / In Progress)*
+🏥 Ontario Healthcare Wait Time Analysis 
+
+[View Project](https://github.com/annsiqbal/ontario-wait-times)
 
 * SQL + data analysis on public healthcare datasets
 * Identifying trends and regional differences
